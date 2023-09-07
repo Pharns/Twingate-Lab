@@ -1,58 +1,26 @@
-<h1>Twingate - Zero Trust Network Access</h1>
+# Markdown Test Code then delete
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+# Twingate - Zero Trust Network Access
 
-<h2>Description</h2>
+### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
+## Description
+
 Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
 
+## Languages and Utilities Used
 
-<h2>Languages and Utilities Used</h2>
+**PowerShell**
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+**Diskpart**
 
-<h2>Environments Used </h2>
+## Environments Used
 
-- <b>Windows 10</b> (21H2)
+**Windows 10** (21H2)
 
-<h2>Program walk-through:</h2>
+## Program walk-through:
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Launch the utility:
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+![Image.png](https://res.craft.do/user/full/9b8c3eae-8e0d-c8f4-977c-abc43f0fd8a3/doc/85B7828E-8BEE-457F-9967-43A04241B896/4D1610C7-E0D1-4A6F-AEEA-B17AD6B63E05_2/oncYgtsxeTHeqlQHPI11K9Eg8LQRtScpHgoPpxr3yFMz/Image.png)
+
